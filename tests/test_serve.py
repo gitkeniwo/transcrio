@@ -751,7 +751,7 @@ def test_stdout_carries_only_ndjson_even_if_the_model_prints(tmp_path):
     lines = []
     for line in proc.stdout:
         lines.append(line)
-        if '"file_done"' in line:
+        if '"file_done"' in line or '"file_error"' in line:
             break
     proc.stdin.write(ops[1] + "\n")
     proc.stdin.flush()

@@ -22,6 +22,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: astral-sh/setup-uv@v6
+      # The pipeline decodes audio with ffmpeg; the runner image doesn't have it.
+      - run: brew install ffmpeg
       - run: uv sync --locked
       # A hung test dumps every thread's traceback after 120 s.
       - run: uv run pytest -v -o faulthandler_timeout=120
