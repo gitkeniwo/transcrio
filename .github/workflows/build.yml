@@ -46,6 +46,7 @@ jobs:
     name: DMG and wheel
     needs: check
     runs-on: macos-26
+    timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
       - uses: astral-sh/setup-uv@v6

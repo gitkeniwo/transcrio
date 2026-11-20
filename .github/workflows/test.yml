@@ -18,15 +18,18 @@ jobs:
   python:
     name: CLI (pytest)
     runs-on: macos-26
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
       - uses: astral-sh/setup-uv@v6
       - run: uv sync --locked
-      - run: uv run pytest -q
+      # A hung test dumps every thread's traceback after 120 s.
+      - run: uv run pytest -v -o faulthandler_timeout=120
 
   swift:
     name: App (swift test)
     runs-on: macos-26
+    timeout-minutes: 30
     defaults:
       run:
         working-directory: gui
