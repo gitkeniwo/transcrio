@@ -7,5 +7,5 @@ __pycache__/
 .pytest_cache/
 .claude/
 # Local planning and design notes; kept out of the public repository.
-/docs/plans/
-/docs/design/
+/docs/plans
+/docs/design

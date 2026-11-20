@@ -1,6 +1,6 @@
 [project]
 name = "transcribe"
-version = "0.2.0"
+version = "0.2.1"
 description = "Local audio/video transcription CLI (Qwen3-ASR on Apple Silicon via MLX)"
 readme = "README.md"
 license = "LicenseRef-GLWTPL"
