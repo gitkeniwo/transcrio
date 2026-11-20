@@ -1,0 +1,8 @@
+{
+  "ok": true,
+  "ffmpeg": "/opt/homebrew/bin/ffmpeg",
+  "ffprobe": "/opt/homebrew/bin/ffprobe",
+  "apple_silicon": true,
+  "hf_cache": "/Users/me/.cache/huggingface",
+  "mlx_device": "Device(gpu, 0)"
+}

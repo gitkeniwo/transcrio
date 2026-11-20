@@ -1,0 +1,27 @@
+{
+  "backends": [
+    {
+      "name": "qwen3-mlx",
+      "description": "Qwen3-ASR (30 languages + 22 Chinese dialects) on MLX; word timing via Qwen3-ForcedAligner for 11 languages",
+      "default_model": "Qwen/Qwen3-ASR-1.7B",
+      "model_aliases": {
+        "0.6b": "Qwen/Qwen3-ASR-0.6B",
+        "1.7b": "Qwen/Qwen3-ASR-1.7B"
+      },
+      "aligned_languages": [
+        "Cantonese",
+        "Chinese",
+        "English",
+        "French",
+        "German",
+        "Italian",
+        "Japanese",
+        "Korean",
+        "Portuguese",
+        "Russian",
+        "Spanish"
+      ],
+      "default": true
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+<defs><linearGradient id="paperR" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fffdf2"></stop><stop offset="0.75" stop-color="#f9f0d4"></stop><stop offset="1" stop-color="#e2d3ad"></stop></linearGradient></defs>
+
+<defs><linearGradient id="grMain" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3c3836"></stop><stop offset="1" stop-color="#1d2021"></stop></linearGradient></defs>
+<rect x="100" y="100" width="824" height="824" rx="185" fill="url(#grMain)"></rect>
+<g transform="translate(0 -60)">
+<path d="M276 238 Q512 224 724 230 L766 272 L770 540 H270 Z" fill="#000000" opacity="0.35"></path>
+<path d="M266 230 Q512 216 716 222 L756 262 L760 540 H262 Z" fill="url(#paperR)" stroke="#141413" stroke-width="4"></path>
+<path d="M716 222 L720 260 L756 262 Z" fill="#d5c4a1" stroke="#141413" stroke-width="4" stroke-linejoin="round"></path>
+<line x1="286" y1="234" x2="286" y2="520" stroke="#cc241d" stroke-width="3" opacity="0.3"></line>
+<text x="304" y="318" font-family="'American Typewriter', 'Courier New', monospace" font-size="66" font-weight="700" fill="#282828">transcrio.</text>
+</g>
+<g transform="translate(0 0)">
+<rect x="250" y="520" width="524" height="64" rx="32" fill="#3c3836"></rect>
+<circle cx="214" cy="552" r="38" fill="#504945" stroke="#1d2021" stroke-width="8"></circle>
+<circle cx="810" cy="552" r="38" fill="#504945" stroke="#1d2021" stroke-width="8"></circle>
+</g>
+<g transform="translate(0 -34)"><rect x="248" y="364" width="528" height="12" rx="6" fill="#a89984"></rect><rect x="356" y="358" width="36" height="24" rx="7" fill="#3c3836"></rect><rect x="632" y="358" width="36" height="24" rx="7" fill="#3c3836"></rect></g>
+<g transform="translate(0 0)"><rect x="186" y="392" width="652" height="140" rx="34" fill="#ebdbb2"></rect><rect x="186" y="392" width="652" height="140" rx="34" fill="#000000" opacity="0.12"></rect><rect x="226" y="414" width="572" height="96" rx="10" fill="#1d2021"></rect><rect x="236" y="422" width="552" height="80" rx="6" fill="#a9b77e"></rect><g fill="#2b3320"><rect x="254" y="452" width="15" height="20" rx="7.5"></rect><rect x="283.5" y="443.25" width="15" height="37.5" rx="7.5"></rect><rect x="313" y="432" width="15" height="60" rx="7.5"></rect><rect x="342.5" y="447" width="15" height="30" rx="7.5"></rect><rect x="372" y="437" width="15" height="50" rx="7.5"></rect><rect x="401.5" y="427" width="15" height="70" rx="7.5"></rect><rect x="431" y="449.5" width="15" height="25" rx="7.5"></rect><rect x="460.5" y="439.5" width="15" height="45" rx="7.5"></rect><rect x="490" y="429.5" width="15" height="65" rx="7.5"></rect><rect x="519.5" y="444.5" width="15" height="35" rx="7.5"></rect><rect x="549" y="434.5" width="15" height="55" rx="7.5"></rect><rect x="578.5" y="450.75" width="15" height="22.5" rx="7.5"></rect><rect x="608" y="430.75" width="15" height="62.5" rx="7.5"></rect><rect x="637.5" y="442" width="15" height="40" rx="7.5"></rect><rect x="667" y="448.25" width="15" height="27.5" rx="7.5"></rect><rect x="696.5" y="435.75" width="15" height="52.5" rx="7.5"></rect><rect x="726" y="445.75" width="15" height="32.5" rx="7.5"></rect><rect x="755.5" y="453.25" width="15" height="17.5" rx="7.5"></rect></g></g>
+<rect x="170" y="578" width="684" height="268" rx="64" fill="#d65d0e"></rect>
+<rect x="220" y="630" width="584" height="182" rx="30" fill="#9a3203"></rect>
+<g transform="translate(0 0)">
+<g fill="#fbf1c7" stroke="#282828" stroke-width="6">
+<circle cx="280" cy="672" r="24"></circle><circle cx="357" cy="672" r="24"></circle><circle cx="434" cy="672" r="24"></circle><circle cx="511" cy="672" r="24"></circle><circle cx="588" cy="672" r="24"></circle><circle cx="665" cy="672" r="24"></circle><circle cx="742" cy="672" r="24"></circle>
+<circle cx="318" cy="728" r="24"></circle><circle cx="395" cy="728" r="24"></circle><circle cx="472" cy="728" r="24"></circle><circle cx="549" cy="728" r="24"></circle><circle cx="626" cy="728" r="24"></circle><circle cx="703" cy="728" r="24"></circle>
+<rect x="372" y="768" width="280" height="26" rx="13"></rect>
+</g>
+</g>
+
+</svg>

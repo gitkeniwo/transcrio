@@ -1,0 +1,20 @@
+# chunks8
+
+- Source: `chunks8.m4a`
+- Duration: 00:04:00
+- Language: English
+- Model: Qwen/Qwen3-ASR-1.7B
+
+---
+
+**[00:00:00]** New bike lanes people said the buses come too late in the. On the main road and the. In the morning while others asked for more parking near the schools a planner. The meeting ended with a plan. Plan to test the idea for three months the city council met. The main road and the new bike lanes people said the buses. Parking near the schools a planner. That cars and bikes share the street more safely and the meeting ended. Main road and the new bike lanes people said the.
+
+**[00:00:38]** Cars and bikes share the street more. Road and the new bike lanes people said the buses come too. Others asked for more parking near the schools a planner showed. The idea for three months the city council met on tuesday to talk. About traffic on the main road and the. A plan to test the idea. The meeting ended with a plan to test. The schools a planner showed how the lights could be timed so that. Bike lanes people said the buses come too late in the morning. For three months the city council met.
+
+**[00:01:27]** Plan to test the idea for three months the city council. Planner showed how the lights could be timed so. The schools a planner showed how the lights could be timed so that cars. To test the idea for three months. Morning while others asked for more parking near the schools a planner showed how. Schools a planner showed how the.
+
+**[00:01:55]** On tuesday to talk about traffic on the main road. A planner showed how the lights could be timed so that cars. Buses come too late in the morning while others asked for more. The buses come too late in the. Late in the morning while others. A planner showed how the lights could be. Lights could be timed so that cars and bikes share the street. While others asked for more parking near the schools a planner showed. Share the street more safely and the meeting ended with a plan to. The schools a planner showed how the.
+
+**[00:02:42]** On the main road and the. Idea for three months the city council met on tuesday to talk about traffic. A plan to test the idea for three months the city council met on. Too late in the morning while others. Lights could be timed so that cars and. A planner showed how the lights could. The city council met on tuesday to talk about traffic on. In the morning while others asked for more parking near the schools a. Buses come too late in the. Safely and the meeting ended with a plan to test the idea.
+
+**[00:03:24]** Morning while others asked for more parking near the. People said the buses come too late in the morning while others asked. And the meeting ended with a plan. Test the idea for three months the city council met on tuesday to. And bikes share the street more safely and the meeting ended with a. Morning while others asked for more parking near the schools a planner showed. And the meeting ended with a. The city council met on tuesday to talk about. Timed so that cars and bikes.

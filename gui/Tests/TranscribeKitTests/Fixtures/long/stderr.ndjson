@@ -1,0 +1,47 @@
+{"file": "/tmp/fixture/audio/long.m4a", "event": "progress", "stage": "decode", "progress": 0.0}
+{"file": "/tmp/fixture/audio/long.m4a", "event": "progress", "stage": "load", "progress": 0.0}
+{"file": "/tmp/fixture/audio/long.m4a", "event": "progress", "stage": "transcribe", "progress": 0.0, "chunk": null, "total_chunks": 14}
+{"file": "/tmp/fixture/audio/long.m4a", "event": "progress", "stage": "transcribe", "progress": 0.0, "chunk": 1, "total_chunks": 14}
+{"file": "/tmp/fixture/audio/long.m4a", "event": "progress", "stage": "transcribe", "progress": 0.08252361079049575, "chunk": 1, "total_chunks": 14}
+{"file": "/tmp/fixture/audio/long.m4a", "event": "progress", "stage": "transcribe", "progress": 0.08252361079049575, "chunk": 2, "total_chunks": 14}
+{"file": "/tmp/fixture/audio/long.m4a", "event": "progress", "stage": "transcribe", "progress": 0.16619510896197573, "chunk": 2, "total_chunks": 14}
+{"file": "/tmp/fixture/audio/long.m4a", "event": "progress", "stage": "transcribe", "progress": 0.16619510896197573, "chunk": 3, "total_chunks": 14}
+{"file": "/tmp/fixture/audio/long.m4a", "event": "progress", "stage": "transcribe", "progress": 0.21232803204263714, "chunk": 3, "total_chunks": 14}
+{"file": "/tmp/fixture/audio/long.m4a", "event": "progress", "stage": "transcribe", "progress": 0.21232803204263714, "chunk": 4, "total_chunks": 14}
+{"file": "/tmp/fixture/audio/long.m4a", "event": "progress", "stage": "transcribe", "progress": 0.29112221115255493, "chunk": 4, "total_chunks": 14}
+{"file": "/tmp/fixture/audio/long.m4a", "event": "progress", "stage": "transcribe", "progress": 0.29112221115255493, "chunk": 5, "total_chunks": 14}
+{"file": "/tmp/fixture/audio/long.m4a", "event": "progress", "stage": "transcribe", "progress": 0.3374133326043553, "chunk": 5, "total_chunks": 14}
+{"file": "/tmp/fixture/audio/long.m4a", "event": "progress", "stage": "transcribe", "progress": 0.3374133326043553, "chunk": 6, "total_chunks": 14}
+{"file": "/tmp/fixture/audio/long.m4a", "event": "progress", "stage": "transcribe", "progress": 0.4162692723583657, "chunk": 6, "total_chunks": 14}
+{"file": "/tmp/fixture/audio/long.m4a", "event": "progress", "stage": "transcribe", "progress": 0.4162692723583657, "chunk": 7, "total_chunks": 14}
+{"file": "/tmp/fixture/audio/long.m4a", "event": "progress", "stage": "transcribe", "progress": 0.49947073152951754, "chunk": 7, "total_chunks": 14}
+{"file": "/tmp/fixture/audio/long.m4a", "event": "progress", "stage": "transcribe", "progress": 0.49947073152951754, "chunk": 8, "total_chunks": 14}
+{"file": "/tmp/fixture/audio/long.m4a", "event": "progress", "stage": "transcribe", "progress": 0.583243982893314, "chunk": 8, "total_chunks": 14}
+{"file": "/tmp/fixture/audio/long.m4a", "event": "progress", "stage": "transcribe", "progress": 0.583243982893314, "chunk": 9, "total_chunks": 14}
+{"file": "/tmp/fixture/audio/long.m4a", "event": "progress", "stage": "transcribe", "progress": 0.6247210646320078, "chunk": 9, "total_chunks": 14}
+{"file": "/tmp/fixture/audio/long.m4a", "event": "progress", "stage": "transcribe", "progress": 0.6247210646320078, "chunk": 10, "total_chunks": 14}
+{"file": "/tmp/fixture/audio/long.m4a", "event": "progress", "stage": "transcribe", "progress": 0.6709987708619357, "chunk": 10, "total_chunks": 14}
+{"file": "/tmp/fixture/audio/long.m4a", "event": "progress", "stage": "transcribe", "progress": 0.6709987708619357, "chunk": 11, "total_chunks": 14}
+{"file": "/tmp/fixture/audio/long.m4a", "event": "progress", "stage": "transcribe", "progress": 0.7498005434936681, "chunk": 11, "total_chunks": 14}
+{"file": "/tmp/fixture/audio/long.m4a", "event": "progress", "stage": "transcribe", "progress": 0.7498005434936681, "chunk": 12, "total_chunks": 14}
+{"file": "/tmp/fixture/audio/long.m4a", "event": "progress", "stage": "transcribe", "progress": 0.8332518295325226, "chunk": 12, "total_chunks": 14}
+{"file": "/tmp/fixture/audio/long.m4a", "event": "progress", "stage": "transcribe", "progress": 0.8332518295325226, "chunk": 13, "total_chunks": 14}
+{"file": "/tmp/fixture/audio/long.m4a", "event": "progress", "stage": "transcribe", "progress": 0.921274668821202, "chunk": 13, "total_chunks": 14}
+{"file": "/tmp/fixture/audio/long.m4a", "event": "progress", "stage": "transcribe", "progress": 0.921274668821202, "chunk": 14, "total_chunks": 14}
+{"file": "/tmp/fixture/audio/long.m4a", "event": "progress", "stage": "transcribe", "progress": 1.0, "chunk": 14, "total_chunks": 14}
+{"file": "/tmp/fixture/audio/long.m4a", "event": "progress", "stage": "align", "progress": 0.0}
+{"file": "/tmp/fixture/audio/long.m4a", "event": "progress", "stage": "align", "progress": 0.07142857142857142}
+{"file": "/tmp/fixture/audio/long.m4a", "event": "progress", "stage": "align", "progress": 0.14285714285714285}
+{"file": "/tmp/fixture/audio/long.m4a", "event": "progress", "stage": "align", "progress": 0.21428571428571427}
+{"file": "/tmp/fixture/audio/long.m4a", "event": "progress", "stage": "align", "progress": 0.2857142857142857}
+{"file": "/tmp/fixture/audio/long.m4a", "event": "progress", "stage": "align", "progress": 0.35714285714285715}
+{"file": "/tmp/fixture/audio/long.m4a", "event": "progress", "stage": "align", "progress": 0.42857142857142855}
+{"file": "/tmp/fixture/audio/long.m4a", "event": "progress", "stage": "align", "progress": 0.5}
+{"file": "/tmp/fixture/audio/long.m4a", "event": "progress", "stage": "align", "progress": 0.5714285714285714}
+{"file": "/tmp/fixture/audio/long.m4a", "event": "progress", "stage": "align", "progress": 0.6428571428571429}
+{"file": "/tmp/fixture/audio/long.m4a", "event": "progress", "stage": "align", "progress": 0.7142857142857143}
+{"file": "/tmp/fixture/audio/long.m4a", "event": "progress", "stage": "align", "progress": 0.7857142857142857}
+{"file": "/tmp/fixture/audio/long.m4a", "event": "progress", "stage": "align", "progress": 0.8571428571428571}
+{"file": "/tmp/fixture/audio/long.m4a", "event": "progress", "stage": "align", "progress": 0.9285714285714286}
+{"file": "/tmp/fixture/audio/long.m4a", "event": "progress", "stage": "align", "progress": 1.0}
+{"file": "/tmp/fixture/audio/long.m4a", "event": "file_done", "outputs": {"md": "/tmp/fixture/out/long.md", "srt": "/tmp/fixture/out/long.srt", "txt": "/tmp/fixture/out/long.txt", "vtt": "/tmp/fixture/out/long.vtt"}, "elapsed": 36.87, "language": "English", "duration": 246.92, "model": "Qwen/Qwen3-ASR-1.7B", "cue_timing": "aligned", "warnings": [], "notices": []}

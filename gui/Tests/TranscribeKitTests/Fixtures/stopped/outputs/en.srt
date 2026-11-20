@@ -1,0 +1,23 @@
+1
+00:00:00,000 --> 00:00:00,960
+Hello and welcome.
+
+2
+00:00:01,200 --> 00:00:03,040
+This is a short test recording for the
+
+3
+00:00:03,040 --> 00:00:04,080
+transcription app.
+
+4
+00:00:04,320 --> 00:00:06,080
+We are checking that progress events
+
+5
+00:00:06,080 --> 00:00:07,920
+stream correctly while the model works
+
+6
+00:00:07,920 --> 00:00:08,800
+through the audio.

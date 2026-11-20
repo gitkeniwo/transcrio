@@ -1,0 +1,575 @@
+1
+00:00:00,000 --> 00:00:00,960
+Hello and welcome.
+
+2
+00:00:01,200 --> 00:00:03,040
+This is a longer test recording for the
+
+3
+00:00:03,040 --> 00:00:04,160
+transcription app.
+
+4
+00:00:04,400 --> 00:00:06,480
+We are checking that progress event stream
+
+5
+00:00:06,480 --> 00:00:08,240
+correctly while the model works through
+
+6
+00:00:08,240 --> 00:00:10,000
+the audio chunk by chunk.
+
+7
+00:00:10,320 --> 00:00:11,280
+Hello and welcome.
+
+8
+00:00:11,520 --> 00:00:13,360
+This is a longer test recording for the
+
+9
+00:00:13,360 --> 00:00:14,400
+transcription app.
+
+10
+00:00:14,720 --> 00:00:16,800
+We are checking that progress event stream
+
+11
+00:00:16,800 --> 00:00:18,480
+correctly while the model works through
+
+12
+00:00:18,480 --> 00:00:20,320
+the audio chunk by chunk.
+
+13
+00:00:20,617 --> 00:00:21,577
+Hello and welcome.
+
+14
+00:00:21,817 --> 00:00:23,657
+This is a longer test recording for the
+
+15
+00:00:23,657 --> 00:00:24,697
+transcription app.
+
+16
+00:00:25,017 --> 00:00:27,097
+We are checking that progress event stream
+
+17
+00:00:27,097 --> 00:00:28,777
+correctly while the model works through
+
+18
+00:00:28,777 --> 00:00:30,617
+the audio chunk by chunk.
+
+19
+00:00:30,937 --> 00:00:31,817
+Hello and welcome.
+
+20
+00:00:32,057 --> 00:00:33,977
+This is a longer test recording for the
+
+21
+00:00:33,977 --> 00:00:35,017
+transcription app.
+
+22
+00:00:35,257 --> 00:00:37,337
+We are checking that progress event stream
+
+23
+00:00:37,337 --> 00:00:39,097
+correctly while the model works through
+
+24
+00:00:39,097 --> 00:00:40,937
+the audio chunk by chunk.
+
+25
+00:00:41,197 --> 00:00:42,157
+Hello and welcome.
+
+26
+00:00:42,397 --> 00:00:44,237
+This is a longer test recording for the
+
+27
+00:00:44,237 --> 00:00:45,357
+transcription app.
+
+28
+00:00:45,597 --> 00:00:47,357
+We are checking that progress events
+
+29
+00:00:47,357 --> 00:00:49,197
+stream correctly while the model works
+
+30
+00:00:49,197 --> 00:00:51,197
+through the audio chunk by chunk.
+
+31
+00:00:51,517 --> 00:00:52,397
+Hello and welcome.
+
+32
+00:00:52,668 --> 00:00:54,588
+This is a longer test recording for the
+
+33
+00:00:54,588 --> 00:00:55,628
+transcription app.
+
+34
+00:00:55,868 --> 00:00:57,948
+We are checking that progress event stream
+
+35
+00:00:57,948 --> 00:00:59,708
+correctly while the model works through
+
+36
+00:00:59,708 --> 00:01:01,548
+the audio chunk by chunk.
+
+37
+00:01:01,788 --> 00:01:02,748
+Hello and welcome.
+
+38
+00:01:02,988 --> 00:01:04,828
+This is a longer test recording for the
+
+39
+00:01:04,828 --> 00:01:05,948
+transcription app.
+
+40
+00:01:06,188 --> 00:01:08,268
+We are checking that progress event stream
+
+41
+00:01:08,268 --> 00:01:10,028
+correctly while the model works through
+
+42
+00:01:10,028 --> 00:01:11,788
+the audio chunk by chunk.
+
+43
+00:01:12,124 --> 00:01:13,004
+Hello and welcome.
+
+44
+00:01:13,324 --> 00:01:15,164
+This is a longer test recording for the
+
+45
+00:01:15,164 --> 00:01:16,204
+transcription app.
+
+46
+00:01:16,444 --> 00:01:18,204
+We are checking that progress events
+
+47
+00:01:18,204 --> 00:01:20,044
+stream correctly while the model works
+
+48
+00:01:20,044 --> 00:01:22,124
+through the audio chunk by chunk.
+
+49
+00:01:22,364 --> 00:01:23,324
+Hello and welcome.
+
+50
+00:01:23,554 --> 00:01:25,474
+This is a longer test recording for the
+
+51
+00:01:25,474 --> 00:01:26,514
+transcription app.
+
+52
+00:01:26,754 --> 00:01:28,834
+We are checking that progress event stream
+
+53
+00:01:28,834 --> 00:01:30,594
+correctly while the model works through
+
+54
+00:01:30,594 --> 00:01:32,434
+the audio chunk by chunk.
+
+55
+00:01:32,674 --> 00:01:33,634
+Hello and welcome.
+
+56
+00:01:33,874 --> 00:01:35,794
+This is a longer test recording for the
+
+57
+00:01:35,794 --> 00:01:36,834
+transcription app.
+
+58
+00:01:37,074 --> 00:01:39,154
+We are checking that progress event stream
+
+59
+00:01:39,154 --> 00:01:40,914
+correctly while the model works through
+
+60
+00:01:40,914 --> 00:01:42,674
+the audio chunk by chunk.
+
+61
+00:01:42,946 --> 00:01:43,906
+Hello and welcome.
+
+62
+00:01:44,146 --> 00:01:46,066
+This is a longer test recording for the
+
+63
+00:01:46,066 --> 00:01:47,106
+transcription app.
+
+64
+00:01:47,346 --> 00:01:49,106
+We are checking that progress events
+
+65
+00:01:49,106 --> 00:01:50,946
+stream correctly while the model works
+
+66
+00:01:50,946 --> 00:01:53,026
+through the audio chunk by chunk.
+
+67
+00:01:53,266 --> 00:01:54,226
+Hello and welcome.
+
+68
+00:01:54,466 --> 00:01:56,386
+This is a longer test recording for the
+
+69
+00:01:56,386 --> 00:01:57,426
+transcription app.
+
+70
+00:01:57,666 --> 00:01:59,426
+We are checking that progress events
+
+71
+00:01:59,426 --> 00:02:01,266
+stream correctly while the model works
+
+72
+00:02:01,266 --> 00:02:03,266
+through the audio chunk by chunk.
+
+73
+00:02:03,570 --> 00:02:04,530
+Hello and welcome.
+
+74
+00:02:04,770 --> 00:02:06,690
+This is a longer test recording for the
+
+75
+00:02:06,690 --> 00:02:07,650
+transcription app.
+
+76
+00:02:07,970 --> 00:02:10,050
+We are checking that progress event stream
+
+77
+00:02:10,050 --> 00:02:11,810
+correctly while the model works through
+
+78
+00:02:11,810 --> 00:02:13,570
+the audio chunk by chunk.
+
+79
+00:02:13,890 --> 00:02:14,850
+Hello and welcome.
+
+80
+00:02:15,090 --> 00:02:16,930
+This is a longer test recording for the
+
+81
+00:02:16,930 --> 00:02:17,970
+transcription app.
+
+82
+00:02:18,210 --> 00:02:20,370
+We are checking that progress event stream
+
+83
+00:02:20,370 --> 00:02:22,050
+correctly while the model works through
+
+84
+00:02:22,050 --> 00:02:23,890
+the audio chunk by chunk.
+
+85
+00:02:24,175 --> 00:02:25,135
+Hello and welcome.
+
+86
+00:02:25,375 --> 00:02:27,215
+This is a longer test recording for the
+
+87
+00:02:27,215 --> 00:02:28,335
+transcription app.
+
+88
+00:02:28,575 --> 00:02:30,655
+We are checking that progress event stream
+
+89
+00:02:30,655 --> 00:02:32,335
+correctly while the model works through
+
+90
+00:02:32,335 --> 00:02:34,175
+the audio chunk by chunk.
+
+91
+00:02:34,417 --> 00:02:35,377
+Hello and welcome.
+
+92
+00:02:35,697 --> 00:02:37,537
+This is a longer test recording for the
+
+93
+00:02:37,537 --> 00:02:38,577
+transcription app.
+
+94
+00:02:38,817 --> 00:02:40,577
+We are checking that progress events
+
+95
+00:02:40,577 --> 00:02:42,417
+stream correctly while the model works
+
+96
+00:02:42,417 --> 00:02:44,497
+through the audio chunk by chunk.
+
+97
+00:02:44,737 --> 00:02:45,697
+Hello and welcome.
+
+98
+00:02:45,924 --> 00:02:47,844
+This is a longer test recording for the
+
+99
+00:02:47,844 --> 00:02:48,884
+transcription app.
+
+100
+00:02:49,124 --> 00:02:51,204
+We are checking that progress event stream
+
+101
+00:02:51,204 --> 00:02:52,964
+correctly while the model works through
+
+102
+00:02:52,964 --> 00:02:54,804
+the audio chunk by chunk.
+
+103
+00:02:55,044 --> 00:02:56,004
+Hello and welcome.
+
+104
+00:02:56,244 --> 00:02:58,164
+This is a longer test recording for the
+
+105
+00:02:58,164 --> 00:02:59,204
+transcription app.
+
+106
+00:02:59,444 --> 00:03:01,524
+We are checking that progress event stream
+
+107
+00:03:01,524 --> 00:03:03,284
+correctly while the model works through
+
+108
+00:03:03,284 --> 00:03:05,044
+the audio chunk by chunk.
+
+109
+00:03:05,382 --> 00:03:06,262
+Hello and welcome.
+
+110
+00:03:06,582 --> 00:03:08,422
+This is a longer test recording for the
+
+111
+00:03:08,422 --> 00:03:09,462
+transcription app.
+
+112
+00:03:09,702 --> 00:03:11,462
+We are checking that progress events
+
+113
+00:03:11,462 --> 00:03:13,302
+stream correctly while the model works
+
+114
+00:03:13,302 --> 00:03:15,382
+through the audio chunk by chunk.
+
+115
+00:03:15,622 --> 00:03:16,582
+Hello and welcome.
+
+116
+00:03:16,822 --> 00:03:18,742
+This is a longer test recording for the
+
+117
+00:03:18,742 --> 00:03:19,782
+transcription app.
+
+118
+00:03:20,022 --> 00:03:21,782
+We are checking that progress events
+
+119
+00:03:21,782 --> 00:03:23,622
+stream correctly while the model works
+
+120
+00:03:23,622 --> 00:03:25,702
+through the audio chunk by chunk.
+
+121
+00:03:25,907 --> 00:03:26,867
+Hello and welcome.
+
+122
+00:03:27,107 --> 00:03:29,027
+This is a longer test recording for the
+
+123
+00:03:29,027 --> 00:03:30,067
+transcription app.
+
+124
+00:03:30,307 --> 00:03:32,067
+We are checking that progress events
+
+125
+00:03:32,067 --> 00:03:33,907
+stream correctly while the model works
+
+126
+00:03:33,907 --> 00:03:35,987
+through the audio chunk by chunk.
+
+127
+00:03:36,227 --> 00:03:37,187
+Hello and welcome.
+
+128
+00:03:37,427 --> 00:03:39,347
+This is a longer test recording for the
+
+129
+00:03:39,347 --> 00:03:40,387
+transcription app.
+
+130
+00:03:40,627 --> 00:03:42,387
+We are checking that progress events
+
+131
+00:03:42,387 --> 00:03:44,227
+stream correctly while the model works
+
+132
+00:03:44,227 --> 00:03:46,227
+through the audio chunk by chunk.
+
+133
+00:03:46,547 --> 00:03:47,507
+Hello and welcome.
+
+134
+00:03:47,722 --> 00:03:49,642
+This is a longer test recording for the
+
+135
+00:03:49,642 --> 00:03:50,682
+transcription app.
+
+136
+00:03:50,922 --> 00:03:52,682
+We are checking that progress events
+
+137
+00:03:52,682 --> 00:03:54,522
+stream correctly while the model works
+
+138
+00:03:54,522 --> 00:03:56,602
+through the audio chunk by chunk.
+
+139
+00:03:56,842 --> 00:03:57,802
+Hello and welcome.
+
+140
+00:03:58,042 --> 00:03:59,882
+This is a longer test recording for the
+
+141
+00:03:59,882 --> 00:04:01,002
+transcription app.
+
+142
+00:04:01,242 --> 00:04:03,002
+We are checking that progress events
+
+143
+00:04:03,002 --> 00:04:04,842
+stream correctly while the model works
+
+144
+00:04:04,842 --> 00:04:06,842
+through the audio chunk by chunk.

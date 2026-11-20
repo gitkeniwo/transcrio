@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+<defs><linearGradient id="paperR" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fffdf2"></stop><stop offset="0.75" stop-color="#f9f0d4"></stop><stop offset="1" stop-color="#e2d3ad"></stop></linearGradient></defs>
+
+<defs><linearGradient id="grMain" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e5ad3a"></stop><stop offset="1" stop-color="#b57614"></stop></linearGradient></defs>
+<rect x="100" y="100" width="824" height="824" rx="185" fill="url(#grMain)"></rect>
+<g transform="translate(0 -60)">
+<path d="M276 238 Q512 224 724 230 L766 272 L770 540 H270 Z" fill="#000000" opacity="0.35"></path>
+<path d="M266 230 Q512 216 716 222 L756 262 L760 540 H262 Z" fill="url(#paperR)" stroke="#141413" stroke-width="4"></path>
+<path d="M716 222 L720 260 L756 262 Z" fill="#d5c4a1" stroke="#141413" stroke-width="4" stroke-linejoin="round"></path>
+<line x1="286" y1="234" x2="286" y2="520" stroke="#cc241d" stroke-width="3" opacity="0.3"></line>
+<text x="304" y="318" font-family="'American Typewriter', 'Courier New', monospace" font-size="66" font-weight="700" fill="#282828">transcrio.</text>
+</g>
+<g transform="translate(0 0)">
+<rect x="250" y="520" width="524" height="64" rx="32" fill="#3c3836"></rect>
+<circle cx="214" cy="552" r="38" fill="#504945" stroke="#1d2021" stroke-width="8"></circle>
+<circle cx="810" cy="552" r="38" fill="#504945" stroke="#1d2021" stroke-width="8"></circle>
+</g>
+<g transform="translate(0 -34)"><rect x="248" y="364" width="528" height="12" rx="6" fill="#a89984"></rect><rect x="356" y="358" width="36" height="24" rx="7" fill="#3c3836"></rect><rect x="632" y="358" width="36" height="24" rx="7" fill="#3c3836"></rect></g>
+<g transform="translate(0 0)"><rect x="206" y="390" width="612" height="140" rx="28" fill="#ebdbb2" stroke="#1d2021" stroke-width="6"></rect><rect x="232" y="408" width="560" height="104" rx="16" fill="#1d2021"></rect><g stroke="#3c3836" stroke-width="3"><line x1="302" y1="412" x2="302" y2="508"></line><line x1="372" y1="412" x2="372" y2="508"></line><line x1="442" y1="412" x2="442" y2="508"></line><line x1="512" y1="412" x2="512" y2="508"></line><line x1="582" y1="412" x2="582" y2="508"></line><line x1="652" y1="412" x2="652" y2="508"></line><line x1="722" y1="412" x2="722" y2="508"></line><line x1="236" y1="460" x2="788" y2="460"></line></g><g fill="#fabd2f"><rect x="252" y="447.6" width="15" height="24.8" rx="7.5"></rect><rect x="281.5" y="436.75" width="15" height="46.5" rx="7.5"></rect><rect x="311" y="422.8" width="15" height="74.4" rx="7.5"></rect><rect x="340.5" y="441.4" width="15" height="37.2" rx="7.5"></rect><rect x="370" y="429" width="15" height="62" rx="7.5"></rect><rect x="399.5" y="416.6" width="15" height="86.8" rx="7.5"></rect><rect x="429" y="444.5" width="15" height="31" rx="7.5"></rect><rect x="458.5" y="432.1" width="15" height="55.8" rx="7.5"></rect><rect x="488" y="419.7" width="15" height="80.6" rx="7.5"></rect><rect x="517.5" y="438.3" width="15" height="43.4" rx="7.5"></rect><rect x="547" y="425.9" width="15" height="68.2" rx="7.5"></rect><rect x="576.5" y="446.05" width="15" height="27.9" rx="7.5"></rect><rect x="606" y="421.25" width="15" height="77.5" rx="7.5"></rect><rect x="635.5" y="435.2" width="15" height="49.6" rx="7.5"></rect><rect x="665" y="442.95" width="15" height="34.1" rx="7.5"></rect><rect x="694.5" y="427.45" width="15" height="65.1" rx="7.5"></rect><rect x="724" y="439.85" width="15" height="40.3" rx="7.5"></rect><rect x="753.5" y="449.15" width="15" height="21.7" rx="7.5"></rect></g><g fill="#504945"><circle cx="220" cy="404" r="6"></circle><circle cx="804" cy="404" r="6"></circle><circle cx="220" cy="516" r="6"></circle><circle cx="804" cy="516" r="6"></circle></g></g>
+<rect x="170" y="578" width="684" height="268" rx="64" fill="#076678"></rect>
+<rect x="220" y="630" width="584" height="182" rx="30" fill="#053e48"></rect>
+<g transform="translate(0 0)">
+<g fill="#fbf1c7" stroke="#282828" stroke-width="6">
+<circle cx="280" cy="672" r="24"></circle><circle cx="357" cy="672" r="24"></circle><circle cx="434" cy="672" r="24"></circle><circle cx="511" cy="672" r="24"></circle><circle cx="588" cy="672" r="24"></circle><circle cx="665" cy="672" r="24"></circle><circle cx="742" cy="672" r="24"></circle>
+<circle cx="318" cy="728" r="24"></circle><circle cx="395" cy="728" r="24"></circle><circle cx="472" cy="728" r="24"></circle><circle cx="549" cy="728" r="24"></circle><circle cx="626" cy="728" r="24"></circle><circle cx="703" cy="728" r="24"></circle>
+<rect x="372" y="768" width="280" height="26" rx="13"></rect>
+</g>
+</g>
+
+</svg>

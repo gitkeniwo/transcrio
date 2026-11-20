@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+<defs><clipPath id="shellH3"><rect x="100" y="100" width="824" height="824" rx="185"></rect></clipPath>
+<linearGradient id="glowH3" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffb000" stop-opacity="0"></stop><stop offset="0.5" stop-color="#ffb000" stop-opacity="0.45"></stop><stop offset="1" stop-color="#ffb000" stop-opacity="0"></stop></linearGradient>
+<pattern id="scanH3" width="10" height="10" patternUnits="userSpaceOnUse"><rect x="0" y="0" width="10" height="4" fill="#000000" opacity="0.35"></rect></pattern></defs>
+<g transform="translate(0 0)">
+<rect x="100" y="100" width="824" height="824" rx="185" fill="#ece1c9"></rect>
+<g clip-path="url(#shellH3)"><rect x="100" y="664" width="824" height="260" fill="#d8cbae"></rect><rect x="100" y="660" width="824" height="6" fill="#a99c80"></rect></g>
+<rect x="168" y="178" width="688" height="420" rx="40" fill="#a99c80"></rect>
+<rect x="186" y="196" width="652" height="384" rx="30" fill="#0f1a10"></rect>
+<g fill="#7fd46b">
+<rect x="208" y="368" width="20" height="40" rx="10"></rect><rect x="238" y="333" width="20" height="110" rx="10"></rect><rect x="268" y="263" width="20" height="250" rx="10"></rect><rect x="298" y="348" width="20" height="80" rx="10"></rect><rect x="328" y="303" width="20" height="170" rx="10"></rect><rect x="358" y="238" width="20" height="300" rx="10"></rect><rect x="388" y="358" width="20" height="60" rx="10"></rect><rect x="418" y="288" width="20" height="200" rx="10"></rect><rect x="448" y="363" width="20" height="50" rx="10"></rect>
+</g>
+<rect x="430" y="206" width="114" height="364" fill="url(#glowH3)"></rect>
+<rect x="480" y="206" width="14" height="364" rx="7" fill="#ffb000"></rect>
+<g font-family="'SF Mono', Menlo, monospace" font-weight="800" fill="#7fd46b">
+<text x="516" y="360" font-size="82">trans</text>
+<text x="516" y="450" font-size="82">crio</text>
+</g>
+<rect x="716" y="394" width="44" height="58" fill="#7fd46b"></rect>
+<rect x="186" y="196" width="652" height="384" rx="30" fill="url(#scanH3)" opacity="0.6"></rect>
+<g transform="translate(0 50)">
+<rect x="186" y="654" width="210" height="140" rx="14" fill="#f6edd6" stroke="#3b2f2a" stroke-width="6"></rect>
+<path d="M217 772 A74 74 0 0 1 365 772" fill="none" stroke="#3b2f2a" stroke-width="6"></path>
+<path d="M343 720 A74 74 0 0 1 365 772" fill="none" stroke="#c0392b" stroke-width="11"></path>
+<line x1="291" y1="772" x2="322" y2="705" stroke="#c0392b" stroke-width="7" stroke-linecap="round"></line>
+<circle cx="291" cy="772" r="11" fill="#3b2f2a"></circle>
+<circle cx="500" cy="724" r="62" fill="#3b2f2a"></circle>
+<circle cx="500" cy="724" r="44" fill="#e2711d"></circle>
+<line x1="500" y1="724" x2="472" y2="696" stroke="#3b2f2a" stroke-width="11" stroke-linecap="round"></line>
+<circle cx="614" cy="680" r="17" fill="#7fd46b" stroke="#3b2f2a" stroke-width="5"></circle>
+<circle cx="614" cy="724" r="17" fill="#ffb000" stroke="#3b2f2a" stroke-width="5"></circle>
+<circle cx="614" cy="768" r="17" fill="#c0392b" stroke="#3b2f2a" stroke-width="5"></circle>
+<rect x="700" y="676" width="28" height="110" rx="14" fill="#3b2f2a"></rect>
+<line x1="714" y1="770" x2="790" y2="690" stroke="#a99c80" stroke-width="14" stroke-linecap="round"></line>
+<circle cx="790" cy="690" r="24" fill="#c0392b" stroke="#3b2f2a" stroke-width="5"></circle>
+</g>
+</g>
+</svg>

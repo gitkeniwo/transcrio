@@ -1,0 +1,34 @@
+{
+  "results": [
+    {
+      "input": "/tmp/fixture/audio/nl.m4a",
+      "outputs": {
+        "md": "/tmp/fixture/out/nl.md",
+        "srt": "/tmp/fixture/out/nl.srt",
+        "txt": "/tmp/fixture/out/nl.txt"
+      },
+      "error": null,
+      "language": "Dutch",
+      "duration": 4.55,
+      "elapsed": 7.46,
+      "backend": "qwen3-mlx",
+      "model": "Qwen/Qwen3-ASR-1.7B",
+      "cue_timing": "estimated",
+      "warnings": [
+        "subtitle timing is estimated for part of the audio (language without forced aligner)"
+      ],
+      "notices": [
+        {
+          "code": "timing_estimated",
+          "message": "subtitle timing is estimated for part of the audio (language without forced aligner)",
+          "spans": [
+            [
+              0.0,
+              4.55
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

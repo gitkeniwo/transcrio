@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+<defs><linearGradient id="paperR" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fffdf2"></stop><stop offset="0.75" stop-color="#f9f0d4"></stop><stop offset="1" stop-color="#e2d3ad"></stop></linearGradient></defs>
+
+<defs><linearGradient id="grMain" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0d7a8f"></stop><stop offset="1" stop-color="#053e48"></stop></linearGradient></defs>
+<rect x="100" y="100" width="824" height="824" rx="185" fill="url(#grMain)"></rect>
+<g transform="translate(0 -60)">
+<path d="M276 238 Q512 224 724 230 L766 272 L770 540 H270 Z" fill="#000000" opacity="0.35"></path>
+<path d="M266 230 Q512 216 716 222 L756 262 L760 540 H262 Z" fill="url(#paperR)" stroke="#141413" stroke-width="4"></path>
+<path d="M716 222 L720 260 L756 262 Z" fill="#d5c4a1" stroke="#141413" stroke-width="4" stroke-linejoin="round"></path>
+<line x1="286" y1="234" x2="286" y2="520" stroke="#cc241d" stroke-width="3" opacity="0.3"></line>
+<text x="304" y="318" font-family="'American Typewriter', 'Courier New', monospace" font-size="66" font-weight="700" fill="#282828">transcrio.</text>
+</g>
+<g transform="translate(0 0)">
+<rect x="250" y="520" width="524" height="64" rx="32" fill="#3c3836"></rect>
+<circle cx="214" cy="552" r="38" fill="#504945" stroke="#1d2021" stroke-width="8"></circle>
+<circle cx="810" cy="552" r="38" fill="#504945" stroke="#1d2021" stroke-width="8"></circle>
+</g>
+<g transform="translate(0 -34)"><rect x="248" y="364" width="528" height="12" rx="6" fill="#a89984"></rect><rect x="356" y="358" width="36" height="24" rx="7" fill="#3c3836"></rect><rect x="632" y="358" width="36" height="24" rx="7" fill="#3c3836"></rect></g>
+<g transform="translate(0 0)"><rect x="236" y="376" width="552" height="152" fill="#282828" stroke="#1d2021" stroke-width="6"></rect><g fill="#fe8019"><rect x="306" y="433.6" width="18" height="36.8" rx="9"></rect><rect x="332" y="417.5" width="18" height="69.0" rx="9"></rect><rect x="358" y="396.8" width="18" height="110.4" rx="9"></rect><rect x="384" y="424.4" width="18" height="55.2" rx="9"></rect><rect x="410" y="406.0" width="18" height="92.0" rx="9"></rect><rect x="436" y="387.6" width="18" height="128.8" rx="9"></rect><rect x="462" y="429.0" width="18" height="46.0" rx="9"></rect><rect x="488" y="410.6" width="18" height="82.8" rx="9"></rect><rect x="514" y="392.2" width="18" height="119.6" rx="9"></rect><rect x="540" y="419.8" width="18" height="64.4" rx="9"></rect><rect x="566" y="401.4" width="18" height="101.2" rx="9"></rect><rect x="592" y="431.3" width="18" height="41.4" rx="9"></rect><rect x="618" y="394.5" width="18" height="115.0" rx="9"></rect><rect x="644" y="415.2" width="18" height="73.6" rx="9"></rect><rect x="670" y="426.7" width="18" height="50.6" rx="9"></rect><rect x="696" y="403.7" width="18" height="96.6" rx="9"></rect></g><circle cx="236" cy="452" r="90" fill="#d65d0e" stroke="#1d2021" stroke-width="7"></circle><circle cx="236" cy="452" r="64" fill="#282828"></circle><g stroke="#d65d0e" stroke-width="10" stroke-linecap="round"><line x1="236" y1="404" x2="236" y2="500"></line><line x1="194" y1="428" x2="278" y2="476"></line><line x1="194" y1="476" x2="278" y2="428"></line></g><circle cx="236" cy="452" r="18" fill="#fbf1c7" stroke="#1d2021" stroke-width="5"></circle><circle cx="788" cy="452" r="90" fill="#d65d0e" stroke="#1d2021" stroke-width="7"></circle><circle cx="788" cy="452" r="64" fill="#282828"></circle><g stroke="#d65d0e" stroke-width="10" stroke-linecap="round"><line x1="788" y1="404" x2="788" y2="500"></line><line x1="746" y1="428" x2="830" y2="476"></line><line x1="746" y1="476" x2="830" y2="428"></line></g><circle cx="788" cy="452" r="18" fill="#fbf1c7" stroke="#1d2021" stroke-width="5"></circle></g>
+<rect x="170" y="578" width="684" height="268" rx="64" fill="#ebdbb2"></rect>
+<rect x="220" y="630" width="584" height="182" rx="30" fill="#bdae93"></rect>
+<g transform="translate(0 0)">
+<g fill="#fbf1c7" stroke="#282828" stroke-width="6">
+<circle cx="280" cy="672" r="24"></circle><circle cx="357" cy="672" r="24"></circle><circle cx="434" cy="672" r="24"></circle><circle cx="511" cy="672" r="24"></circle><circle cx="588" cy="672" r="24"></circle><circle cx="665" cy="672" r="24"></circle><circle cx="742" cy="672" r="24"></circle>
+<circle cx="318" cy="728" r="24"></circle><circle cx="395" cy="728" r="24"></circle><circle cx="472" cy="728" r="24"></circle><circle cx="549" cy="728" r="24"></circle><circle cx="626" cy="728" r="24"></circle><circle cx="703" cy="728" r="24"></circle>
+<rect x="372" y="768" width="280" height="26" rx="13"></rect>
+</g>
+</g>
+
+</svg>

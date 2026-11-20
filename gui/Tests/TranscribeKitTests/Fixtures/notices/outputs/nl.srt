@@ -1,0 +1,11 @@
+1
+00:00:00,000 --> 00:00:01,088
+Goede middag allemaal.
+
+2
+00:00:01,088 --> 00:00:02,770
+Dit is een korte testopname in het
+
+3
+00:00:02,770 --> 00:00:04,551
+Nederlands voor de transcripsie-app.

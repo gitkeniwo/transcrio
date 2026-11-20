@@ -1,0 +1,20 @@
+# chapter-en
+
+- Source: `chapter-en.mp3`
+- Duration: 00:01:34
+- Language: English
+- Model: Qwen/Qwen3-ASR-0.6B
+
+---
+
+**[00:00:00]** This is placeholder text for the test fixture and carries no meaning. It checks that segments, timestamps and subtitle cues come through intact. The model works through the audio chunk by chunk while the interface shows progress. Each finished segment is saved.
+
+**[00:00:16]** to the library and can be exported in several formats. This is placeholder text for the test fixture and carries no meaning. It checks that segments, timestamps and subtitle cues come through intact. The model works through the audio chunk by chunk while the interface shows progress.
+
+**[00:00:31]** Each finished segment is saved to the library and can be exported in several formats. This is placeholder text for the test fixture and carries no meaning. It checks that segments, timestamps and subtitle cues come through intact.
+
+**[00:00:46]** The model works through the audio chunk by chunk while the interface shows progress. Each finished segment is saved to the library and can be exported in several formats.
+
+**[00:00:58]** This is placeholder text for the test fixture and carries no meaning. It checks that segments, timestamps and subtitle cues come through intact. The model works.
+
+**[00:01:09]** through the audio chunk by chunk while the interface shows progress. Each finished segment is saved to the library and can be exported in several formats. This is placeholder text for the test fixture and carries no meaning. It checks that segments, timestamps and subtitle cues come through intact. The model works through the audio chunk by chunk while the interface shows progress. Each finished segment is.

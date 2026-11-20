@@ -1,0 +1,1 @@
+{"file": "/tmp/fixture/audio/en.m4a", "event": "file_error", "error": "output exists (use --overwrite): /tmp/fixture/out/en.md"}

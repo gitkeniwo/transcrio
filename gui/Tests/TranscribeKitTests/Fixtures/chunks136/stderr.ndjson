@@ -1,0 +1,413 @@
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "decode", "progress": 0.0}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "load", "progress": 0.0}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.0, "chunk": null, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.0, "chunk": 1, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.007352941176470588, "chunk": 1, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.007352941176470588, "chunk": 2, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.014705882352941176, "chunk": 2, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.014705882352941176, "chunk": 3, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.022058823529411766, "chunk": 3, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.022058823529411766, "chunk": 4, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.029411764705882353, "chunk": 4, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.029411764705882353, "chunk": 5, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.03676470588235294, "chunk": 5, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.03676470588235294, "chunk": 6, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.04411764705882353, "chunk": 6, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.04411764705882353, "chunk": 7, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.051470588235294115, "chunk": 7, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.051470588235294115, "chunk": 8, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.058823529411764705, "chunk": 8, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.058823529411764705, "chunk": 9, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.0661764705882353, "chunk": 9, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.0661764705882353, "chunk": 10, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.07352941176470588, "chunk": 10, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.07352941176470588, "chunk": 11, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.08088235294117647, "chunk": 11, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.08088235294117647, "chunk": 12, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.08823529411764706, "chunk": 12, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.08823529411764706, "chunk": 13, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.09558823529411764, "chunk": 13, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.09558823529411764, "chunk": 14, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.10294117647058823, "chunk": 14, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.10294117647058823, "chunk": 15, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.11029411764705882, "chunk": 15, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.11029411764705882, "chunk": 16, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.11764705882352941, "chunk": 16, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.11764705882352941, "chunk": 17, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.125, "chunk": 17, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.125, "chunk": 18, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.1323529411764706, "chunk": 18, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.1323529411764706, "chunk": 19, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.13970588235294118, "chunk": 19, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.13970588235294118, "chunk": 20, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.14705882352941177, "chunk": 20, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.14705882352941177, "chunk": 21, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.15441176470588236, "chunk": 21, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.15441176470588236, "chunk": 22, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.16176470588235295, "chunk": 22, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.16176470588235295, "chunk": 23, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.16911764705882354, "chunk": 23, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.16911764705882354, "chunk": 24, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.17647058823529413, "chunk": 24, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.17647058823529413, "chunk": 25, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.18382352941176472, "chunk": 25, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.18382352941176472, "chunk": 26, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.19117647058823528, "chunk": 26, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.19117647058823528, "chunk": 27, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.19852941176470587, "chunk": 27, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.19852941176470587, "chunk": 28, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.20588235294117646, "chunk": 28, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.20588235294117646, "chunk": 29, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.21323529411764705, "chunk": 29, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.21323529411764705, "chunk": 30, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.22058823529411764, "chunk": 30, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.22058823529411764, "chunk": 31, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.22794117647058823, "chunk": 31, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.22794117647058823, "chunk": 32, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.23529411764705882, "chunk": 32, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.23529411764705882, "chunk": 33, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.2426470588235294, "chunk": 33, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.2426470588235294, "chunk": 34, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.25, "chunk": 34, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.25, "chunk": 35, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.25735294117647056, "chunk": 35, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.25735294117647056, "chunk": 36, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.2647058823529412, "chunk": 36, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.2647058823529412, "chunk": 37, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.27205882352941174, "chunk": 37, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.27205882352941174, "chunk": 38, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.27941176470588236, "chunk": 38, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.27941176470588236, "chunk": 39, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.2867647058823529, "chunk": 39, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.2867647058823529, "chunk": 40, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.29411764705882354, "chunk": 40, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.29411764705882354, "chunk": 41, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.3014705882352941, "chunk": 41, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.3014705882352941, "chunk": 42, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.3088235294117647, "chunk": 42, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.3088235294117647, "chunk": 43, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.3161764705882353, "chunk": 43, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.3161764705882353, "chunk": 44, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.3235294117647059, "chunk": 44, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.3235294117647059, "chunk": 45, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.33088235294117646, "chunk": 45, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.33088235294117646, "chunk": 46, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.3382352941176471, "chunk": 46, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.3382352941176471, "chunk": 47, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.34558823529411764, "chunk": 47, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.34558823529411764, "chunk": 48, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.35294117647058826, "chunk": 48, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.35294117647058826, "chunk": 49, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.3602941176470588, "chunk": 49, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.3602941176470588, "chunk": 50, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.36764705882352944, "chunk": 50, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.36764705882352944, "chunk": 51, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.375, "chunk": 51, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.375, "chunk": 52, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.38235294117647056, "chunk": 52, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.38235294117647056, "chunk": 53, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.3897058823529412, "chunk": 53, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.3897058823529412, "chunk": 54, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.39705882352941174, "chunk": 54, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.39705882352941174, "chunk": 55, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.40441176470588236, "chunk": 55, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.40441176470588236, "chunk": 56, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.4117647058823529, "chunk": 56, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.4117647058823529, "chunk": 57, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.41911764705882354, "chunk": 57, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.41911764705882354, "chunk": 58, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.4264705882352941, "chunk": 58, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.4264705882352941, "chunk": 59, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.4338235294117647, "chunk": 59, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.4338235294117647, "chunk": 60, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.4411764705882353, "chunk": 60, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.4411764705882353, "chunk": 61, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.4485294117647059, "chunk": 61, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.4485294117647059, "chunk": 62, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.45588235294117646, "chunk": 62, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.45588235294117646, "chunk": 63, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.4632352941176471, "chunk": 63, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.4632352941176471, "chunk": 64, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.47058823529411764, "chunk": 64, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.47058823529411764, "chunk": 65, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.47794117647058826, "chunk": 65, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.47794117647058826, "chunk": 66, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.4852941176470588, "chunk": 66, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.4852941176470588, "chunk": 67, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.49264705882352944, "chunk": 67, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.49264705882352944, "chunk": 68, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.5, "chunk": 68, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.5, "chunk": 69, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.5073529411764706, "chunk": 69, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.5073529411764706, "chunk": 70, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.5147058823529411, "chunk": 70, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.5147058823529411, "chunk": 71, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.5220588235294118, "chunk": 71, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.5220588235294118, "chunk": 72, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.5294117647058824, "chunk": 72, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.5294117647058824, "chunk": 73, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.5367647058823529, "chunk": 73, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.5367647058823529, "chunk": 74, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.5441176470588235, "chunk": 74, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.5441176470588235, "chunk": 75, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.5514705882352942, "chunk": 75, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.5514705882352942, "chunk": 76, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.5588235294117647, "chunk": 76, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.5588235294117647, "chunk": 77, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.5661764705882353, "chunk": 77, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.5661764705882353, "chunk": 78, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.5735294117647058, "chunk": 78, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.5735294117647058, "chunk": 79, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.5808823529411765, "chunk": 79, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.5808823529411765, "chunk": 80, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.5882352941176471, "chunk": 80, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.5882352941176471, "chunk": 81, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.5955882352941176, "chunk": 81, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.5955882352941176, "chunk": 82, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.6029411764705882, "chunk": 82, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.6029411764705882, "chunk": 83, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.6102941176470589, "chunk": 83, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.6102941176470589, "chunk": 84, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.6176470588235294, "chunk": 84, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.6176470588235294, "chunk": 85, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.625, "chunk": 85, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.625, "chunk": 86, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.6323529411764706, "chunk": 86, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.6323529411764706, "chunk": 87, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.6397058823529411, "chunk": 87, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.6397058823529411, "chunk": 88, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.6470588235294118, "chunk": 88, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.6470588235294118, "chunk": 89, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.6544117647058824, "chunk": 89, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.6544117647058824, "chunk": 90, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.6617647058823529, "chunk": 90, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.6617647058823529, "chunk": 91, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.6691176470588235, "chunk": 91, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.6691176470588235, "chunk": 92, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.6764705882352942, "chunk": 92, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.6764705882352942, "chunk": 93, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.6838235294117647, "chunk": 93, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.6838235294117647, "chunk": 94, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.6911764705882353, "chunk": 94, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.6911764705882353, "chunk": 95, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.6985294117647058, "chunk": 95, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.6985294117647058, "chunk": 96, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.7058823529411765, "chunk": 96, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.7058823529411765, "chunk": 97, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.7132352941176471, "chunk": 97, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.7132352941176471, "chunk": 98, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.7205882352941176, "chunk": 98, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.7205882352941176, "chunk": 99, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.7279411764705882, "chunk": 99, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.7279411764705882, "chunk": 100, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.7352941176470589, "chunk": 100, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.7352941176470589, "chunk": 101, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.7426470588235294, "chunk": 101, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.7426470588235294, "chunk": 102, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.75, "chunk": 102, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.75, "chunk": 103, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.7573529411764706, "chunk": 103, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.7573529411764706, "chunk": 104, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.7647058823529411, "chunk": 104, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.7647058823529411, "chunk": 105, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.7720588235294118, "chunk": 105, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.7720588235294118, "chunk": 106, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.7794117647058824, "chunk": 106, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.7794117647058824, "chunk": 107, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.7867647058823529, "chunk": 107, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.7867647058823529, "chunk": 108, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.7941176470588235, "chunk": 108, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.7941176470588235, "chunk": 109, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.8014705882352942, "chunk": 109, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.8014705882352942, "chunk": 110, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.8088235294117647, "chunk": 110, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.8088235294117647, "chunk": 111, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.8161764705882353, "chunk": 111, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.8161764705882353, "chunk": 112, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.8235294117647058, "chunk": 112, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.8235294117647058, "chunk": 113, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.8308823529411765, "chunk": 113, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.8308823529411765, "chunk": 114, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.8382352941176471, "chunk": 114, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.8382352941176471, "chunk": 115, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.8455882352941176, "chunk": 115, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.8455882352941176, "chunk": 116, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.8529411764705882, "chunk": 116, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.8529411764705882, "chunk": 117, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.8602941176470589, "chunk": 117, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.8602941176470589, "chunk": 118, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.8676470588235294, "chunk": 118, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.8676470588235294, "chunk": 119, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.875, "chunk": 119, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.875, "chunk": 120, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.8823529411764706, "chunk": 120, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.8823529411764706, "chunk": 121, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.8897058823529411, "chunk": 121, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.8897058823529411, "chunk": 122, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.8970588235294118, "chunk": 122, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.8970588235294118, "chunk": 123, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.9044117647058824, "chunk": 123, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.9044117647058824, "chunk": 124, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.9117647058823529, "chunk": 124, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.9117647058823529, "chunk": 125, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.9191176470588235, "chunk": 125, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.9191176470588235, "chunk": 126, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.9264705882352942, "chunk": 126, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.9264705882352942, "chunk": 127, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.9338235294117647, "chunk": 127, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.9338235294117647, "chunk": 128, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.9411764705882353, "chunk": 128, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.9411764705882353, "chunk": 129, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.9485294117647058, "chunk": 129, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.9485294117647058, "chunk": 130, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.9558823529411765, "chunk": 130, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.9558823529411765, "chunk": 131, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.9632352941176471, "chunk": 131, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.9632352941176471, "chunk": 132, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.9705882352941176, "chunk": 132, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.9705882352941176, "chunk": 133, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.9779411764705882, "chunk": 133, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.9779411764705882, "chunk": 134, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.9852941176470589, "chunk": 134, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.9852941176470589, "chunk": 135, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.9926470588235294, "chunk": 135, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 0.9926470588235294, "chunk": 136, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "transcribe", "progress": 1.0, "chunk": 136, "total_chunks": 136}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.0}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.007352941176470588}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.014705882352941176}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.022058823529411766}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.029411764705882353}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.03676470588235294}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.04411764705882353}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.051470588235294115}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.058823529411764705}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.0661764705882353}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.07352941176470588}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.08088235294117647}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.08823529411764706}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.09558823529411764}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.10294117647058823}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.11029411764705882}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.11764705882352941}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.125}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.1323529411764706}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.13970588235294118}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.14705882352941177}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.15441176470588236}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.16176470588235295}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.16911764705882354}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.17647058823529413}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.18382352941176472}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.19117647058823528}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.19852941176470587}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.20588235294117646}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.21323529411764705}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.22058823529411764}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.22794117647058823}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.23529411764705882}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.2426470588235294}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.25}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.25735294117647056}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.2647058823529412}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.27205882352941174}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.27941176470588236}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.2867647058823529}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.29411764705882354}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.3014705882352941}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.3088235294117647}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.3161764705882353}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.3235294117647059}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.33088235294117646}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.3382352941176471}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.34558823529411764}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.35294117647058826}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.3602941176470588}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.36764705882352944}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.375}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.38235294117647056}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.3897058823529412}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.39705882352941174}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.40441176470588236}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.4117647058823529}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.41911764705882354}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.4264705882352941}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.4338235294117647}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.4411764705882353}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.4485294117647059}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.45588235294117646}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.4632352941176471}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.47058823529411764}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.47794117647058826}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.4852941176470588}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.49264705882352944}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.5}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.5073529411764706}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.5147058823529411}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.5220588235294118}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.5294117647058824}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.5367647058823529}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.5441176470588235}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.5514705882352942}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.5588235294117647}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.5661764705882353}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.5735294117647058}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.5808823529411765}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.5882352941176471}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.5955882352941176}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.6029411764705882}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.6102941176470589}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.6176470588235294}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.625}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.6323529411764706}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.6397058823529411}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.6470588235294118}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.6544117647058824}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.6617647058823529}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.6691176470588235}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.6764705882352942}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.6838235294117647}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.6911764705882353}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.6985294117647058}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.7058823529411765}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.7132352941176471}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.7205882352941176}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.7279411764705882}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.7352941176470589}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.7426470588235294}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.75}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.7573529411764706}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.7647058823529411}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.7720588235294118}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.7794117647058824}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.7867647058823529}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.7941176470588235}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.8014705882352942}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.8088235294117647}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.8161764705882353}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.8235294117647058}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.8308823529411765}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.8382352941176471}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.8455882352941176}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.8529411764705882}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.8602941176470589}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.8676470588235294}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.875}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.8823529411764706}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.8897058823529411}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.8970588235294118}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.9044117647058824}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.9117647058823529}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.9191176470588235}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.9264705882352942}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.9338235294117647}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.9411764705882353}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.9485294117647058}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.9558823529411765}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.9632352941176471}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.9705882352941176}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.9779411764705882}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.9852941176470589}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 0.9926470588235294}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "progress", "stage": "align", "progress": 1.0}
+{"file": "/tmp/fixture/audio/chunks136.m4a", "event": "file_done", "outputs": {"md": "/tmp/fixture/out/chunks136.md", "srt": "/tmp/fixture/out/chunks136.srt", "txt": "/tmp/fixture/out/chunks136.txt", "vtt": "/tmp/fixture/out/chunks136.vtt"}, "elapsed": 343.79, "language": "English", "duration": 2641.6, "model": "Qwen/Qwen3-ASR-1.7B", "cue_timing": "mixed", "warnings": ["subtitle timing is estimated from 15:50 to 17:24: the aligner could not match this part"], "notices": [{"code": "timing_estimated", "message": "subtitle timing is estimated from 15:50 to 17:24: the aligner could not match this part", "spans": [[950.0, 1044.0]]}]}

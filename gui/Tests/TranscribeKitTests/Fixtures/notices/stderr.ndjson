@@ -1,0 +1,9 @@
+{"file": "/tmp/fixture/audio/nl.m4a", "event": "progress", "stage": "decode", "progress": 0.0}
+{"file": "/tmp/fixture/audio/nl.m4a", "event": "progress", "stage": "load", "progress": 0.0}
+{"file": "/tmp/fixture/audio/nl.m4a", "event": "progress", "stage": "transcribe", "progress": 0.0, "chunk": null, "total_chunks": 1}
+{"file": "/tmp/fixture/audio/nl.m4a", "event": "progress", "stage": "transcribe", "progress": 0.0, "chunk": 1, "total_chunks": 1}
+{"file": "/tmp/fixture/audio/nl.m4a", "event": "progress", "stage": "transcribe", "progress": 1.0, "chunk": 1, "total_chunks": 1}
+{"file": "/tmp/fixture/audio/nl.m4a", "event": "progress", "stage": "align", "progress": 0.0}
+{"file": "/tmp/fixture/audio/nl.m4a", "event": "progress", "stage": "align", "progress": 1.0}
+{"file": "/tmp/fixture/audio/nl.m4a", "event": "log", "message": "warning: nl.m4a: subtitle timing is estimated for part of the audio (language without forced aligner)"}
+{"file": "/tmp/fixture/audio/nl.m4a", "event": "file_done", "outputs": {"md": "/tmp/fixture/out/nl.md", "srt": "/tmp/fixture/out/nl.srt", "txt": "/tmp/fixture/out/nl.txt"}, "elapsed": 7.46, "language": "Dutch", "duration": 4.55, "model": "Qwen/Qwen3-ASR-1.7B", "cue_timing": "estimated", "warnings": ["subtitle timing is estimated for part of the audio (language without forced aligner)"], "notices": [{"code": "timing_estimated", "message": "subtitle timing is estimated for part of the audio (language without forced aligner)", "spans": [[0.0, 4.55]]}]}

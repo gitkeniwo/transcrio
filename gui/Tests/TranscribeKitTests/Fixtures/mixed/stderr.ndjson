@@ -1,0 +1,10 @@
+{"file": "/tmp/fixture/audio/missing.mp3", "event": "progress", "stage": "decode", "progress": 0.0}
+{"file": "/tmp/fixture/audio/missing.mp3", "event": "file_error", "error": "no such file: /tmp/fixture/audio/missing.mp3"}
+{"file": "/tmp/fixture/audio/noaudio.mp4", "event": "progress", "stage": "decode", "progress": 0.0}
+{"file": "/tmp/fixture/audio/noaudio.mp4", "event": "file_error", "error": "ffmpeg failed to decode noaudio.mp4: file has no audio stream"}
+{"file": "/tmp/fixture/audio/en.m4a", "event": "progress", "stage": "decode", "progress": 0.0}
+{"file": "/tmp/fixture/audio/en.m4a", "event": "progress", "stage": "load", "progress": 0.0}
+{"file": "/tmp/fixture/audio/en.m4a", "event": "progress", "stage": "transcribe", "progress": 0.0, "chunk": null, "total_chunks": 1}
+{"file": "/tmp/fixture/audio/en.m4a", "event": "progress", "stage": "transcribe", "progress": 0.0, "chunk": 1, "total_chunks": 1}
+{"file": "/tmp/fixture/audio/en.m4a", "event": "progress", "stage": "transcribe", "progress": 1.0, "chunk": 1, "total_chunks": 1}
+{"file": "/tmp/fixture/audio/en.m4a", "event": "file_done", "outputs": {"md": "/tmp/fixture/out/en.md"}, "elapsed": 7.69, "language": "English", "duration": 8.87, "model": "Qwen/Qwen3-ASR-1.7B", "cue_timing": null, "warnings": [], "notices": []}

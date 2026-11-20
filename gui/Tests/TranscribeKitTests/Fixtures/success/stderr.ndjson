@@ -1,0 +1,15 @@
+{"file": "/tmp/fixture/audio/en.m4a", "event": "progress", "stage": "decode", "progress": 0.0}
+{"file": "/tmp/fixture/audio/en.m4a", "event": "progress", "stage": "load", "progress": 0.0}
+{"file": "/tmp/fixture/audio/en.m4a", "event": "progress", "stage": "transcribe", "progress": 0.0, "chunk": null, "total_chunks": 1}
+{"file": "/tmp/fixture/audio/en.m4a", "event": "progress", "stage": "transcribe", "progress": 0.0, "chunk": 1, "total_chunks": 1}
+{"file": "/tmp/fixture/audio/en.m4a", "event": "progress", "stage": "transcribe", "progress": 1.0, "chunk": 1, "total_chunks": 1}
+{"file": "/tmp/fixture/audio/en.m4a", "event": "progress", "stage": "align", "progress": 0.0}
+{"file": "/tmp/fixture/audio/en.m4a", "event": "progress", "stage": "align", "progress": 1.0}
+{"file": "/tmp/fixture/audio/en.m4a", "event": "file_done", "outputs": {"md": "/tmp/fixture/out/en.md", "srt": "/tmp/fixture/out/en.srt"}, "elapsed": 8.96, "language": "English", "duration": 8.87, "model": "Qwen/Qwen3-ASR-1.7B", "cue_timing": "aligned", "warnings": [], "notices": []}
+{"file": "/tmp/fixture/audio/zh.mp3", "event": "progress", "stage": "decode", "progress": 0.0}
+{"file": "/tmp/fixture/audio/zh.mp3", "event": "progress", "stage": "transcribe", "progress": 0.0, "chunk": null, "total_chunks": 1}
+{"file": "/tmp/fixture/audio/zh.mp3", "event": "progress", "stage": "transcribe", "progress": 0.0, "chunk": 1, "total_chunks": 1}
+{"file": "/tmp/fixture/audio/zh.mp3", "event": "progress", "stage": "transcribe", "progress": 1.0, "chunk": 1, "total_chunks": 1}
+{"file": "/tmp/fixture/audio/zh.mp3", "event": "progress", "stage": "align", "progress": 0.0}
+{"file": "/tmp/fixture/audio/zh.mp3", "event": "progress", "stage": "align", "progress": 1.0}
+{"file": "/tmp/fixture/audio/zh.mp3", "event": "file_done", "outputs": {"md": "/tmp/fixture/out/zh.md", "srt": "/tmp/fixture/out/zh.srt"}, "elapsed": 4.37, "language": "English", "duration": 9.4, "model": "Qwen/Qwen3-ASR-1.7B", "cue_timing": "aligned", "warnings": [], "notices": []}

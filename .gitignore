@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+/samples/out/
+/build/
+.pytest_cache/
+.claude/
+# Local planning and design notes; kept out of the public repository.
+/docs/plans/
+/docs/design/

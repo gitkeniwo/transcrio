@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "input": "/tmp/fixture/audio/missing.mp3",
+      "outputs": {},
+      "error": "no such file: /tmp/fixture/audio/missing.mp3"
+    },
+    {
+      "input": "/tmp/fixture/audio/noaudio.mp4",
+      "outputs": {},
+      "error": "ffmpeg failed to decode noaudio.mp4: file has no audio stream"
+    },
+    {
+      "input": "/tmp/fixture/audio/en.m4a",
+      "outputs": {
+        "md": "/tmp/fixture/out/en.md"
+      },
+      "error": null,
+      "language": "English",
+      "duration": 8.87,
+      "elapsed": 7.69,
+      "backend": "qwen3-mlx",
+      "model": "Qwen/Qwen3-ASR-1.7B",
+      "cue_timing": null,
+      "warnings": [],
+      "notices": []
+    }
+  ]
+}

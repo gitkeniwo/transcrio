@@ -1,0 +1,80 @@
+name: Build
+
+# Every push to main and every pull request builds the DMG and wheel as workflow
+# artifacts. Once a day (and on demand) the build of main replaces the rolling
+# `nightly` prerelease, unless main hasn't changed since.
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: build-${{ github.ref }}-${{ github.event_name }}
+  cancel-in-progress: true
+
+jobs:
+  check:
+    name: Nightly needed?
+    runs-on: ubuntu-latest
+    outputs:
+      nightly: ${{ steps.check.outputs.nightly }}
+    steps:
+      - id: check
+        env:
+          GH_TOKEN: ${{ github.token }}
+          EVENT: ${{ github.event_name }}
+        run: |
+          if [ "$EVENT" != schedule ] && [ "$EVENT" != workflow_dispatch ]; then
+            echo "nightly=false" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          current="$(gh api "repos/$GITHUB_REPOSITORY/git/ref/tags/nightly" --jq .object.sha 2>/dev/null || true)"
+          if [ "$EVENT" = schedule ] && [ "$current" = "$GITHUB_SHA" ]; then
+            echo "nightly already at $GITHUB_SHA"
+            echo "nightly=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "nightly=true" >> "$GITHUB_OUTPUT"
+          fi
+
+  build:
+    name: DMG and wheel
+    needs: check
+    runs-on: macos-26
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+      - run: scripts/release.sh --nightly
+      - uses: actions/upload-artifact@v4
+        with:
+          name: transcrio-${{ github.sha }}
+          retention-days: 14
+          path: |
+            build/release/nightly/*.dmg
+            build/release/nightly/*.whl
+            build/release/nightly/SHA256SUMS
+            build/release/nightly/notes.md
+            build/release/nightly/release.env
+
+  nightly:
+    name: Publish nightly
+    needs: [check, build]
+    if: needs.check.outputs.nightly == 'true' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with:
+          name: transcrio-${{ github.sha }}
+          path: build/release/nightly
+      - env:
+          GH_TOKEN: ${{ github.token }}
+          TRANSCRIO_REPO: ${{ github.repository }}
+        run: scripts/publish.sh build/release/nightly

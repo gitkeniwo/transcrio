@@ -1,0 +1,22 @@
+{
+  "results": [
+    {
+      "input": "/tmp/fixture/audio/long.m4a",
+      "outputs": {
+        "md": "/tmp/fixture/out/long.md",
+        "srt": "/tmp/fixture/out/long.srt",
+        "txt": "/tmp/fixture/out/long.txt",
+        "vtt": "/tmp/fixture/out/long.vtt"
+      },
+      "error": null,
+      "language": "English",
+      "duration": 246.92,
+      "elapsed": 36.87,
+      "backend": "qwen3-mlx",
+      "model": "Qwen/Qwen3-ASR-1.7B",
+      "cue_timing": "aligned",
+      "warnings": [],
+      "notices": []
+    }
+  ]
+}

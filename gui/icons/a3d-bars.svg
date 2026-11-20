@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+<defs><linearGradient id="bgW" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3c3836"></stop><stop offset="1" stop-color="#1d2021"></stop></linearGradient>
+<linearGradient id="paperW" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fffdf2"></stop><stop offset="0.75" stop-color="#f9f0d4"></stop><stop offset="1" stop-color="#e2d3ad"></stop></linearGradient></defs>
+
+<rect x="100" y="100" width="824" height="824" rx="185" fill="url(#bgW)"></rect>
+<path d="M312 164 Q512 152 690 156 L732 198 L738 540 H306 Z" fill="#000000" opacity="0.35"></path>
+<path d="M302 156 Q512 144 682 148 L722 188 L726 540 H298 Z" fill="url(#paperW)" stroke="#141413" stroke-width="4"></path>
+<path d="M682 148 L686 186 L722 188 Z" fill="#d5c4a1" stroke="#141413" stroke-width="4" stroke-linejoin="round"></path>
+<line x1="324" y1="160" x2="324" y2="520" stroke="#cc241d" stroke-width="3" opacity="0.3"></line>
+<g transform="translate(330 186) translate(-330 -186)">
+<g fill="#d65d0e">
+<rect x="340" y="221" width="16" height="30" rx="8"></rect><rect x="370" y="206" width="16" height="60" rx="8"></rect><rect x="400" y="191" width="16" height="90" rx="8"></rect><rect x="430" y="211" width="16" height="50" rx="8"></rect><rect x="460" y="196" width="16" height="80" rx="8"></rect><rect x="490" y="216" width="16" height="40" rx="8"></rect>
+<rect x="520" y="201" width="16" height="70" rx="8"></rect><rect x="550" y="191" width="16" height="90" rx="8"></rect><rect x="580" y="211" width="16" height="50" rx="8"></rect><rect x="610" y="203" width="16" height="66" rx="8"></rect><rect x="640" y="219" width="16" height="34" rx="8"></rect><rect x="670" y="226" width="16" height="20" rx="8"></rect>
+</g>
+</g>
+<line x1="340" y1="300" x2="684" y2="300" stroke="#bdae93" stroke-width="4" stroke-dasharray="12 10"></line>
+<text x="340" y="400" font-family="'American Typewriter', 'Courier New', monospace" font-size="54" font-weight="700" fill="#282828">transcrio.</text>
+<rect x="276" y="450" width="472" height="10" rx="5" fill="#a89984"></rect>
+<rect x="380" y="444" width="34" height="22" rx="6" fill="#3c3836"></rect>
+<rect x="610" y="444" width="34" height="22" rx="6" fill="#3c3836"></rect>
+<rect x="240" y="520" width="544" height="64" rx="32" fill="#3c3836"></rect>
+<circle cx="214" cy="552" r="38" fill="#504945" stroke="#1d2021" stroke-width="8"></circle>
+<circle cx="810" cy="552" r="38" fill="#504945" stroke="#1d2021" stroke-width="8"></circle>
+<rect x="170" y="578" width="684" height="268" rx="64" fill="#d65d0e"></rect>
+<rect x="220" y="630" width="584" height="182" rx="30" fill="#9a3203"></rect>
+<g fill="#fbf1c7" stroke="#282828" stroke-width="6">
+<circle cx="280" cy="672" r="24"></circle><circle cx="357" cy="672" r="24"></circle><circle cx="434" cy="672" r="24"></circle><circle cx="511" cy="672" r="24"></circle><circle cx="588" cy="672" r="24"></circle><circle cx="665" cy="672" r="24"></circle><circle cx="742" cy="672" r="24"></circle>
+<circle cx="318" cy="728" r="24"></circle><circle cx="395" cy="728" r="24"></circle><circle cx="472" cy="728" r="24"></circle><circle cx="549" cy="728" r="24"></circle><circle cx="626" cy="728" r="24"></circle><circle cx="703" cy="728" r="24"></circle>
+<rect x="372" y="768" width="280" height="26" rx="13"></rect>
+</g>
+
+</svg>

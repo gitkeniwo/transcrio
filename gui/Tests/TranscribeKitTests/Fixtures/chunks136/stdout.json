@@ -1,0 +1,35 @@
+{
+  "results": [
+    {
+      "input": "/tmp/fixture/audio/chunks136.m4a",
+      "outputs": {
+        "md": "/tmp/fixture/out/chunks136.md",
+        "srt": "/tmp/fixture/out/chunks136.srt",
+        "txt": "/tmp/fixture/out/chunks136.txt",
+        "vtt": "/tmp/fixture/out/chunks136.vtt"
+      },
+      "error": null,
+      "language": "English",
+      "duration": 2641.6,
+      "elapsed": 343.79,
+      "backend": "qwen3-mlx",
+      "model": "Qwen/Qwen3-ASR-1.7B",
+      "cue_timing": "mixed",
+      "warnings": [
+        "subtitle timing is estimated from 15:50 to 17:24: the aligner could not match this part"
+      ],
+      "notices": [
+        {
+          "code": "timing_estimated",
+          "message": "subtitle timing is estimated from 15:50 to 17:24: the aligner could not match this part",
+          "spans": [
+            [
+              950.0,
+              1044.0
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+name: Release
+
+# Push a tag like v1.2.3 (matching pyproject.toml) to test, build, publish the GitHub
+# release and update the Homebrew tap. Needs the TAP_GITHUB_TOKEN secret: a fine-grained
+# token with Contents read and write on the tap repository.
+
+on:
+  push:
+    tags: ["v*.*.*"]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: release-${{ github.ref }}
+
+jobs:
+  test:
+    uses: ./.github/workflows/test.yml
+
+  build:
+    name: DMG and wheel
+    needs: test
+    runs-on: macos-26
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+      - name: Build
+        env:
+          TRANSCRIO_REPO: ${{ github.repository }}
+        run: |
+          version="${GITHUB_REF_NAME#v}"
+          scripts/release.sh "$version"
+          mv "build/release/$version" build/release/out
+      - uses: actions/upload-artifact@v4
+        with:
+          name: release-${{ github.ref_name }}
+          path: |
+            build/release/out/*.dmg
+            build/release/out/*.whl
+            build/release/out/SHA256SUMS
+            build/release/out/notes.md
+            build/release/out/release.env
+            build/release/out/tap
+
+  publish:
+    name: Publish release and tap
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with:
+          name: release-${{ github.ref_name }}
+          path: build/release/out
+      - env:
+          GH_TOKEN: ${{ github.token }}
+          TAP_GITHUB_TOKEN: ${{ secrets.TAP_GITHUB_TOKEN }}
+          TRANSCRIO_REPO: ${{ github.repository }}
+          GIT_AUTHOR_NAME: github-actions[bot]
+          GIT_AUTHOR_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+          GIT_COMMITTER_NAME: github-actions[bot]
+          GIT_COMMITTER_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+        run: |
+          if [ -z "$TAP_GITHUB_TOKEN" ]; then
+            echo "::error::TAP_GITHUB_TOKEN secret is not set"; exit 1
+          fi
+          scripts/publish.sh build/release/out
