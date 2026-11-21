@@ -1,7 +1,13 @@
-# Transcrio
+<p align="center">
+  <img src="gui/icons/a3b-lcd-clay.svg" width="240" height="240" alt="Transcrio">
+</p>
 
-[![Tests](https://github.com/gitkeniwo/transcrio/actions/workflows/test.yml/badge.svg)](https://github.com/gitkeniwo/transcrio/actions/workflows/test.yml)
-[![Build](https://github.com/gitkeniwo/transcrio/actions/workflows/build.yml/badge.svg)](https://github.com/gitkeniwo/transcrio/actions/workflows/build.yml)
+<h1 align="center">Transcrio</h1>
+
+<p align="center">
+  <a href="https://github.com/gitkeniwo/transcrio/actions/workflows/test.yml"><img src="https://github.com/gitkeniwo/transcrio/actions/workflows/test.yml/badge.svg" alt="Tests"></a>
+  <a href="https://github.com/gitkeniwo/transcrio/actions/workflows/build.yml"><img src="https://github.com/gitkeniwo/transcrio/actions/workflows/build.yml/badge.svg" alt="Build"></a>
+</p>
 
 Local audio and video transcription on Apple silicon. Transcrio is a native macOS app
 (SwiftUI) on top of `transcribe`, a Python command-line tool that runs
